@@ -1,0 +1,14 @@
+Package: sdmengine
+Type: Package
+Title: sdmengine
+Version: 0.1
+Date: 2014-12-03
+Author: Xiaoquan Kong
+Depends:
+    yaml,
+    raster,
+    sdmengine.common
+Maintainer: Xiaoquan Kong <u1mail2me@gmail.com>
+Description: A tools for running SDM (Species distribution modelling) without
+    coding
+License: AGPL
